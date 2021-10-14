@@ -1,0 +1,14 @@
+{
+    "name": "dc-welcome-bot",
+    "description": "Discord.js welcome botu",
+    "author": {
+        "name": "Erdem Çakıroğlu"
+    },
+    "private": true,
+    "dependencies": {
+        "discord.js": "12.5.1",
+        "ffmpeg-static": "4.2.7",
+        "opusscript": "0.0.7",
+        "play": "^0.5.0"
+    }
+}
